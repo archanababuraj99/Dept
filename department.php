@@ -10,17 +10,17 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-warning">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html">Department</a>
+          <a class="navbar-brand" href="index.php">Department</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-              <a class="nav-link" href="contact.html">Contact Page</a>
-              <a class="nav-link" href="gallery.html">Gallery</a>
-              <a class="nav-link" href="department.html">Department</a>
-              <a class="nav-link" href="aboutus.html">About Us</a>
+              <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+              <a class="nav-link" href="contact.php">Contact Page</a>
+              <a class="nav-link" href="gallery.php">Gallery</a>
+              <a class="nav-link" href="department.php">Department</a>
+              <a class="nav-link" href="aboutus.php">About Us</a>
             </div>
           </div>
         </div>
